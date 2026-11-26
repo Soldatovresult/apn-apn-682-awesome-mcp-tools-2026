@@ -145,7 +145,7 @@
 
 ## Finance & Business Servers
 
-- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local macOS CLI and stdio MCP payments with an owner-set x402 policy and terminal approval for direct transfers.
 - [Stripe MCP](https://github.com/stripe/agent-toolkit) — Payment processing
 - [Shopify MCP](https://github.com/Shopify/mcp-shopify) — E-commerce operations
 - [CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server) — Crypto market data
